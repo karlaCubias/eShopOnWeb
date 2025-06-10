@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: kyndryl006
   LOCATION: eastus2
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 081a25b7-eea8-4b0f-998b-d2f290dbe6a9
+  SUBSCRIPTION-ID: 239a12fd-fdfd-4e9d-8cec-45c05d6c6c9a
   WEBAPP-NAME: eshoponweb-webapp-karla
 
 
